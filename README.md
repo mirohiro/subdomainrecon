@@ -1,14 +1,23 @@
 # subdomainrecon
 A simple bash script for enumerating subdomains. 
 
-Usage: 
+#### Usage: 
+```
 ./recon.sh <domain>
+```
 
 
-requires: 
-Go
-Assetfinder
-AMASS
+#### Prerequisites
+The following are required. They are:
 
+* GO
+* Assetfinder
+* AMASS
+* httprobe
+
+
+
+
+#
 
 Big thank you to The Cyber Mentor and Tomnomnom for the inspiration. 
